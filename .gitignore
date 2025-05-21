@@ -1,0 +1,9 @@
+
+# Install extensions
+code --install-extension ms-vscode.cpptools
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
+config.bat
+node_modules
